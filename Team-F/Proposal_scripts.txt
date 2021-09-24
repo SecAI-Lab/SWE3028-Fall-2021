@@ -1,0 +1,83 @@
+
+#1
+Hi, I am Minji Cha from team Fancy.
+
+#2
+Our team wanted to choose a project topic that we all agree with the importance.
+As we are student, and we are interested in educational technology, we wanted to solve some problem in educational domain.
+
+We thought current offline review notes had some drawbacks, so we designed a review note generate application.
+
+#3
+Before explaining our application’s feature, I would like to explain the current review note applications.
+
+There are many applications in the App Store, but none of them have some special features.
+Those applications have common feature to take picture and crop the problem area, and save the image.
+
+#4
+Like the screenshots, you can take a picture, and save them in the application.
+This means, the application has no difference between a simple storage.
+They don’t provide any function like camscanner or some functions to motivate the users to study harder.
+
+#5
+There was only one review note application which said they are using AI.
+They were classificating correct and wrong numbers based on the paper that user already has scored.
+It seemed like they are detecting the correct circle sign or wrong line sign.
+
+#6
+So our team decided to make a useful review note application
+By adding features with AI.
+
+These are the main features of our application.
+Instead of making user to grade the questions and take a picture by their own,
+We are going to automatically grade user’s problems, and create review note.
+Also, we will add some features to support studying.
+
+#7
+I am going to simply explain the user flow, and how we will technically implement those features.
+
+First, user takes a picutre of the problem and answer sheet.
+
+#8
+We are going to build a model that detects the problem area of the picture.
+Then, we will detect the area of the user’s answer and the real answer, and grade it by comparing them using OCR.
+
+#9
+We have not searched for a specific model yet,
+But we have considered some approaches to detect problem area.
+
+First approach is to consider problem area as a object and use yolo
+And second approach is fine tunning text localization model to detect a problem area.
+
+#10
+Because we can detect the area of the problem, we can easily generate the review note with the wrong questions.
+
+After creating the review note, we are going to provide a special function to let student to solve the problem again.
+We are going to re-generate the question by changing the variables.
+
+#11
+There are some apis to convert image to latex, and latex to json, so we think that it might be possible to extract information in the math expression.
+
+This function may help student a lot because they can solve the same problem again and again with the different variables.
+
+#12
+This is our basic concept, but we think our topic can expand in many points.
+
+We didn’t made a development plan yet, but after planning, if we have some time, we are going to implement the above features.
+We will try to grade basic, easy problems without answer sheet.
+
+Also, we will add features to encourage users to study. We didn’t decided the specific way, but I think we can use some gamification methods.
+
+#13
+Because our user should take pictures, we thought it might be better to make an application.
+So we are going to use flutter to develop an application.
+
+Also, we are going to develop a deep learning model using pytorch or tensorflow,
+So we are going to use flask and python for our backend server.
+
+#14
+Finally, this is our Roles.
+Two members will concentrate in implementing a deep learning model, and two members are going to develop applications.
+
+#15
+Thank you!
