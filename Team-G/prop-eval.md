@@ -1,4 +1,4 @@
-### [Team G: cookie & cream] AI model to assist clothing fashion 
+### [Team G: cookie & cream] Fatching: Fashion Matching Service
 
 #### Feedback (from other teams): incomplete (B/D/H only) 
 - [+] useful proposal; realistic idea
