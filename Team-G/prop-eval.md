@@ -1,21 +1,26 @@
 ### [Team G: cookie & cream] Fatching: Fashion Matching Service
 
-#### Feedback (from other teams): incomplete (B/D/H only) 
+#### Feedback (from other teams)
 - [+] useful proposal; realistic idea
 - [+] well presented in the study of previous work
 - [+] problem clearly defined and worth addressing
-- [+] role distribution and schedule are fair
+- [+] role distribution and schedule are fair/good
+- [+] good collaboration plan
+- [+] impressive scheduling chart
 - [-] missing how to build a model from prior work
+- [-] lack of problem clarification
 - [-] distinguishing points compared to similar apps or service
 - [-] skewed model depending on a training dataset for learning
 - [-] trivial solution
 - [-] require a project plan in detail
 - [-] absence of how each feature works
 
-#### Suggestions (from other teams): incomplete
+#### Suggestions / Questions (from other teams)
 * Investigate in-depth study of previous approaches (rather than look up)
 * Would be great that the proposal has the feature of user’s preference
 * Investigate a better solution?
+* Not sure how prior work helps to resolve the problem
+* Practicality is questionable on a fashion matching application
 
 #### Comments
 * The attempt to seek a recommendation for fashion-blinded people looks quite interesting.

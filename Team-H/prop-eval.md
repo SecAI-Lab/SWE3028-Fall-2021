@@ -1,14 +1,24 @@
 ### [Team H: The outsiders] PinPlace: CNN based location image search and its adaptation to social network
 
-#### Feedback (from other teams): incomplete (B/D/H only)
-- [+] study of previous work looks great
+#### Feedback (from other teams)
+- [+] study of previous work (CNN) looks great
 - [+] well-presented solution
 - [+] well-defined problem
 - [+] clear role distribution
 - [-] how to select a dataset (e.g., 10 hot places for MZ generation)
+- [-] unrealistic solution
+- [-] hard to say a proper semester-long project
+- [-] role/collaboration are not well presented
+- [-] lack of merits (maybe hashtags are sufficient?)
+- [-] lack of explanation why the service is needed
 
-#### Suggestions (from other teams): incomplete
-
+#### Suggestions / Questions (from other teams)
+* Choosing the right dataset is needed
+* Can you think of additional features? 
+* Can you clarify why we need this service other than GPS?
+* The proposal is about to find a location; but it looks a simple image classification problem
+* How do you recognize pictures in the same place, but looking quite different?
+* There are people who do not want to disclose their locations for privacy
 
 #### Comments
 * Overall, the proposal looks fine, but questionable in usage.

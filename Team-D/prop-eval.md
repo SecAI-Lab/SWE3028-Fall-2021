@@ -1,16 +1,27 @@
 ### [Team D: EDITH] End-to-end anime photo editing
 
-#### Feedback (from other teams): incomplete (B/H only) 
+#### Feedback (from other teams)
 - [+] interesting idea
 - [+] good scheduling
+- [+] practical by combining various ideas
+- [+] well-defined roles
+- [+] well-explained skills in the field of creating animation
 - [-] solution looks irrelevant (i.e., suggesting image generation rather than animation)
 - [-] lack of plans in detail
 - [-] lack of role distribution
+- [-] roles are not equally distributed
+- [-] lack of improvement from existing idea
 - [-] require more study on prior work
-- [-] distinct properties or differences from prior work?
+- [-] distinct properties (strategies) or differences from prior work? 
+- [-] more study on prior work needed
+- [-] lack how to collaborate with team members
 
-#### Suggestions (from other teams): incomplete
+#### Suggestions / Questions (from other teams)
 * Define art styles clearly as it could be varying
+* Can you make a difference other than applying the existing ideas?
+* Investigation on the market would be helpful
+* Three AI techniques should be well mixed rather than just combined
+* Not sure what problem the project can resolve
 
 #### Comments
 * Overall, the proposal looks very interesting.
