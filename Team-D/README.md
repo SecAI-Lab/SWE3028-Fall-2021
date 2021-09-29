@@ -1,5 +1,5 @@
 # EDITH
-# Proposal
+# Proposal LATEX
 [Read Me](https://drive.google.com/file/d/1bdXJ-CWcWC2tsgkGNQsdMryWkzwPZZ8U/view?usp=sharing)
 
 # Presentation Video
