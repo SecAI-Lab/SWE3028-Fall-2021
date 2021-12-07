@@ -6,8 +6,8 @@
 >
 > Team Member : 엄지용, 이지섭, 정채원, 채승윤, 홍성준
 > 
-> Repository Structure
-> 
+
+
 [![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
  
 
@@ -108,7 +108,7 @@ This is the own user page for a user logged in, which shows pictures uploaded by
 
 
 # Output
-<h3> 1. Inital UI design </h3>
+<h3> 1. Initial UI design </h3>
 https://www.figma.com/file/kPRSZqt6wzZ49x4qpmfjma/캡스톤-UI?node-id=0%3A1
 <br>
 <h3> 2. Final Report </h3>
@@ -116,7 +116,7 @@ https://www.figma.com/file/kPRSZqt6wzZ49x4qpmfjma/캡스톤-UI?node-id=0%3A1
 [Final Report By Team H](https://github.com/SecAI-Lab/SWE3028/blob/main/Team-H/Capstone_final_report_team_H.pdf)
 
 <h3> 3. Final Presentation </h3>
-
-[Final presentation](https://github.com/SecAI-Lab/SWE3028/blob/main/final/Capstone_final_presentation_team_H.pdf)
-
+<br>
 <h3> 4. DEMO </h3>
+
+
