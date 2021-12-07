@@ -109,6 +109,11 @@ This is the own user page for a user logged in, which shows pictures uploaded by
 
 
 # Project Progress
+<h3> CNN Part </h3>
+<img src="./cnn_progress.png">
+<br>
+<h3> Web Part </h3>
+<img src="./web_progress.png">
 
 
 [![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
