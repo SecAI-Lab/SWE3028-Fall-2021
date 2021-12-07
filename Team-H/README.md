@@ -4,7 +4,7 @@
 
 > Topic : CNN based Location Image Search and its Adaptation to Social Network, PINPLACE
 >
-> Team Member : 엄지용, 이지섭, 정채원, 채승윤, 홍성준
+> Team Member : 엄지용, 이지섭, 정채원, 채승윤, 홍성준 <br>
 > <img src="./intro_team.png">
 > 
 
