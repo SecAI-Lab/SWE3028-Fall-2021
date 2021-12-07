@@ -13,7 +13,6 @@
 
 # Introudction of PINPLACE
 
-[![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
 <h2>0. Summary</h2>
 <img src="./pinplace.png">
