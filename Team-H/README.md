@@ -108,6 +108,11 @@ This is the own user page for a user logged in, which shows pictures uploaded by
 [![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
 
+# Project Progress
+
+
+[![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+
 # Output
 <h3> 1. Initial UI design </h3>
 https://www.figma.com/file/kPRSZqt6wzZ49x4qpmfjma/캡스톤-UI?node-id=0%3A1
