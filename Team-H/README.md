@@ -112,7 +112,7 @@ This is the own user page for a user logged in, which shows pictures uploaded by
 https://www.figma.com/file/kPRSZqt6wzZ49x4qpmfjma/캡스톤-UI?node-id=0%3A1
 <br>
 <h3> 2. Final Report </h3>
-[Final Report By Team H](https://github.com/SecAI-Lab/SWE3028/blob/main/Team-H/Capstone_final_report_team_H.pdf)
+[Final Report By Team H][https://github.com/SecAI-Lab/SWE3028/blob/main/Team-H/Capstone_final_report_team_H.pdf]
 <h3> 3. Final Presentation </h3>
 <br>
 <h3> 4. DEMO </h3>
