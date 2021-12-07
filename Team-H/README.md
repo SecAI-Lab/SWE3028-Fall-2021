@@ -6,7 +6,6 @@
 >
 > Team Member : 엄지용, 이지섭, 정채원, 채승윤, 홍성준
 > <img src="./intro_team.png">
-> Repository Structure
 > 
 [![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
  
