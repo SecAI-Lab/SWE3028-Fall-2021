@@ -173,6 +173,8 @@ We Finaly choose ResNet50 model.
 <h3> Web Part </h3>
 <img src="./web_progress.png">
 
+[![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+
 # Output
 
 ## 1. Github Repository
@@ -191,6 +193,10 @@ We Finaly choose ResNet50 model.
 
 - [Final presentation](https://github.com/SecAI-Lab/SWE3028/blob/main/final/Capstone_final_presentation_team_H.pdf)
 
-## 5. DEMO
+## 5. Final CNN model file
+
+- [Final CNN file](https://drive.google.com/file/d/1MFIPT5ijsCOwLAdOsRyfCbfzhh4M_r0I/view?usp=sharing)
+
+## 6. DEMO
 
 - [Demo vedio]()
