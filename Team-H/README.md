@@ -181,7 +181,7 @@ We Finaly choose ResNet50 model.
 
 - [Team H repository](https://github.com/Outsider-H/PINPLACE.git)
 
-## 2. Inital UI design
+## 2. Initial UI design
 
 - [UI Design](https://www.figma.com/file/kPRSZqt6wzZ49x4qpmfjma/캡스톤-UI?node-id=0%3A1)
 
