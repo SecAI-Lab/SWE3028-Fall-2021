@@ -1,0 +1,1 @@
+https://figshare.com/articles/dataset/Forecasting_Stock_Prices_with_a_Feature_Fusion_LSTM-CNN_Model_Using_Different_Representations_of_the_Same_Data/7471568
