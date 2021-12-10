@@ -1,4 +1,6 @@
 # WE ARE EDITH
+# Main Repo
+https://github.com/chingisooinar/CDP_EDITH
 # Proposal LATEX
 [Read Me](https://drive.google.com/file/d/1bdXJ-CWcWC2tsgkGNQsdMryWkzwPZZ8U/view?usp=sharing)
 
