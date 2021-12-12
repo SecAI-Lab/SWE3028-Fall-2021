@@ -1,6 +1,8 @@
 # WE ARE EDITH
 # Main Repo
 https://github.com/chingisooinar/CDP_EDITH
+# Final Report
+[Read Me](https://github.com/SecAI-Lab/SWE3028/blob/main/Team-D/EDITH_CAPSTONE_REPORT.pdf)
 # Proposal LATEX
 [Read Me](https://drive.google.com/file/d/1bdXJ-CWcWC2tsgkGNQsdMryWkzwPZZ8U/view?usp=sharing)
 
